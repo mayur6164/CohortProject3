@@ -21,8 +21,9 @@ h2 {
 h3 {
     color: #515151;
 }
-p{
-    color:#616161;
+
+p {
+    color: #616161;
 }
 
 
@@ -53,22 +54,25 @@ section {
     border-radius: .5rem;
     padding-block: 2rem;
     padding-inline: 1rem;
-    margin-block:2rem;
+    margin-block: 2rem;
 }
-main #secondBlog{
+
+main #secondBlog {
     margin-bottom: 2rem;
 }
+
 main #firstBlog #imgCont {
     display: flex;
     justify-content: center;
 }
-main #firstBlog #imgCont img{
+
+main #firstBlog #imgCont img {
     border-radius: .5rem;
 }
 
 main #firstBlog ul li {
     margin-bottom: 1rem;
-    color:black;
+    color: black;
 }
 
 main #secondBlog hr {
@@ -77,16 +81,16 @@ main #secondBlog hr {
 
 main #secondBlog ol li {
     margin-block: 1rem;
-    color:black;
+    color: black;
 }
 
-main footer{
+main footer {
     text-align: center;
     background-color: #323232;
     padding-block: 1rem;
     margin-top: 2rem;
 }
-main footer p{
-    color:white;
-}
 
+main footer p {
+    color: white;
+}
