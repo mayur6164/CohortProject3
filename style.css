@@ -68,6 +68,7 @@ main #firstBlog #imgCont {
 
 main #firstBlog #imgCont img {
     border-radius: .5rem;
+    min-width:18rem;
 }
 
 main #firstBlog ul li {
